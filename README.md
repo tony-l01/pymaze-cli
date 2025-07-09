@@ -44,3 +44,14 @@ For loaded maze
 ```
 python main.py -l Maze/YOUR_MAZE.csv -p bfs
 ```
+
+## List of algorithms
+### Generation
+```
+dfs, bfs, kruskal, prim
+```
+
+### Pathfinding
+```
+dfs, bfs, dijkstra, astar
+```
