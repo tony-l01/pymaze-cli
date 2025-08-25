@@ -7,7 +7,7 @@ Generate and solve mazes using various algorithms
 
 1. Clone the repo
    ```
-   git clone https://github.com/DocusDukus/pymaze-cli
+   git clone https://github.com/tony-l01/pymaze-cli
    ```
 
 2. Install the requirements
